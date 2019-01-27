@@ -1,6 +1,6 @@
 # Play Button
 
-This extension will automatically select the specified field values one by one in a given time period.
+This extension comes with Play, Pause and Stop buttons. This extension could be used to animate the page based on the field list.  
 
 ## Table of Contents
 * [Screenshot](#screenshot)
@@ -31,7 +31,6 @@ This extension will automatically select the specified field values one by one i
 # Usage
 
 1. Drag and drop the visualization extension into a Qlik Sense sheet and define variable name
-
 2. Field Name
 
 	Enter the field name that needs to be displayed. For example
