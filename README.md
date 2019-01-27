@@ -30,16 +30,12 @@ This extension comes with Play, Pause and Stop buttons. This extension could be 
 
 # Usage
 
-1. Drag and drop the visualization extension into a Qlik Sense sheet and define variable name
-2. Field Name
-
-	Enter the field name that needs to be displayed. For example
+1. Drag and drop the visualization extension to a desired location in Qlik Sense sheet  
+2. Assign a field name
 
    ![fieldname](https://user-images.githubusercontent.com/18327523/33880302-3d319496-df57-11e7-92bc-d74cff018c25.png) 
 
-3. Time Period
-
-  	Specify the time period so that the extension will run based on the given intervals.
+3. Specify the time interval in seconds
 	
      ![timeperiod](https://user-images.githubusercontent.com/18327523/33880332-50a24fd4-df57-11e7-808c-f59140c0706e.png)
 
@@ -52,7 +48,9 @@ This extension comes with Play, Pause and Stop buttons. This extension could be 
 
 ![aes logo transperant - small](https://cloud.githubusercontent.com/assets/18327523/14427159/d6e64e9c-0010-11e6-9532-d4682e9ea0a0.png)
 
-**Assure eServices Inc., **
+Irfan Kaleel
 
+Assure eServices - Qlik Web Team
+ 
 (http://github.com/Assureeservices)
 
